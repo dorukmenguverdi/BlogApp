@@ -95,7 +95,7 @@ Content-Type: application/json
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<username>/springboot-blog-app.git
+git clone https://github.com/<dorukmenguverdi>/springboot-blog-app.git
 cd springboot-blog-app
 ```
 
